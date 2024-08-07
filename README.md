@@ -6,13 +6,13 @@ I'm John Soudi. I'm a cybersecurity student who is passionate about solving chal
 
 ## Objective
 
-I begun my journey in IT was a self taught student. This led me to the amazing field of cybersecurity. I am now in a bachelor of science in Cybersecurity program that I plan to complete in 2025. I am starting my cybersecurity career by joining a SOC as a Tier 1 Analyst.
+I begun my journey in IT as a self taught student. This led me to the amazing field of cybersecurity. I am now in a bachelor of science in Cybersecurity program that I plan to complete in 2025. I am starting my cybersecurity career by joining a SOC as a Tier 1 Analyst.
 
 
-## Skills
+## Current Projects
+
+## Past Projects
 
 ## Certifications
-
-## Projects
 
 
