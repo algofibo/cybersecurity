@@ -10,3 +10,9 @@ I begun my journey in IT was a self taught student. This led me to the amazing f
 
 
 ## Skills
+
+## Certifications
+
+## Projects
+
+
